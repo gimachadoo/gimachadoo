@@ -1,4 +1,4 @@
-# Olá!✨
+# Olá!
 Meu nome é Giovanna!
 
 🎓 Sou formada em Secretariado pela Processus e atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB.
