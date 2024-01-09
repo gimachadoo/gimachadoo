@@ -1,7 +1,5 @@
-# Olá!
-Meu nome é Giovanna!
+Olá, meu nome é Giovanna! Sou graduada em Secretariado pela UniProcessus e atualmente estou cursando Análise e Desenvolvimento de Sistemas no UniCEUB. 
 
-🎓 Sou formada em Secretariado pela Processus e atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB.
+Atualmente, estou focada em desenvolvimento com Angular, aprimorando minhas habilidades nesta poderosa framework.
 
-Estou estudando para me tornar uma desenvolvedora FRONT-END, aprimorando meus conhecimentos em: HTML, CSS e JS. Possuo nível básico em Python e SQL. 👩‍💻
-
+Estou prestes a concluir meu estágio e, durante esse período, busquei constantemente novos conhecimentos para enriquecer minha jornada profissional. Animada com as possibilidades que o Angular oferece, estou pronta para novos desafios e oportunidades.
